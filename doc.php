@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario de Contacto</title>
-    <style>
-        /* Estilos aquí */
-    </style>
-</head>
-<body>
-    <div class="form-container">
-        <h2>Formulario de Contacto</h2>
-        <form action="" method="post">
-            <label for="nombre">Nombre:</label>
-            <input type="text" id="nombre" name="nombre" required>
-            <label for="clave">Clave:</label>
-            <input type="password" id="clave" name="clave" required>
-            <input type="submit" value="Enviar">
-        </form>
-    </div>
 
     <?php
     
